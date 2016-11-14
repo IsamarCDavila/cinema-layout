@@ -38,7 +38,7 @@ body{
 	padding: 8px;
 	width:180px;
 }
-.bot1{
+.Primer-boton{
 	background-color:#FACC2E;
 	color:white;
 	width: 130px;
@@ -53,7 +53,7 @@ body{
 .icon1{
 	height:20px;
 }
-.bot2{
+.Segundo-boton{
 	background-color:#FF8000;
 	color:white;
 	width: 130px;
@@ -115,7 +115,7 @@ tr{
 	height:20px;
 }
 
-.bo1{
+.Primer-boton{
 	background: #F4FA58;
 }
 /**tercera parte**/
@@ -126,10 +126,10 @@ h3{
 	color:#BDBDBD;
 	font-size: 20px;
 }
-.h11,p,h4{
+.titulo1,p,h4{
 	color: #BDBDBD;
 }
-.h12{
+.titulo2{
 	font-size:23px;
 }
 .p1{
@@ -151,7 +151,7 @@ li{
 	text-decoration:none;
 	color:#FAAC58;
 }
-.pmore{
+.etiqueta{
 	margin-top:50px;
 	font-size: 13px;
 }

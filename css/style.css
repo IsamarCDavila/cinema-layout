@@ -60,7 +60,7 @@ body{
     height:30px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
-    border-radius: 10%;
+    border-radius: 15%;
     border:1px solid #FF8000;
     margin-bottom: 50px;
 }
@@ -94,8 +94,8 @@ body{
 .all{
 	width: 100px;
      height: 100px;
-     -moz-border-radius: 50%;
-     -webkit-border-radius: 50%;
+     -moz-border-radius: 15%;
+     -webkit-border-radius: 15%;
      border-radius: 10%;
      border:1px solid green;
      padding: 7px 5px;
@@ -137,7 +137,7 @@ h3{
 	margin:16px 0;
 }
 .p2{
-	color:#FF8000;
+	color:#B22222;
 	font-size:13px; 
 	margin-top:40px;
 }
@@ -159,6 +159,19 @@ li{
 	height:300px;
 	padding-bottom:40px;
 }
+.boton_ticket{
+	background:#CD853F;
+	border-color: #CD853F;
+	height: 30px;
+	color:white;
+}
+.news1{
+	color:#696969 ;
+}
+.news2{
+	color:#696969;
+}
+
 /**disclaimer**/
 footer{
 	padding:20px 0;
